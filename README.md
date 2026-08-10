@@ -236,6 +236,6 @@ Networks*. ICLR.
 
 ## Author
 
-[Your Name], MSc [Course], [University], 2026.
+Tejesh, MSc Data science, University of Roehampton, 2026.
 
 Academic work submitted for assessment. Please do not reuse it for your own submission.
